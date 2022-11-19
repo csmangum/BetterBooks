@@ -12,3 +12,5 @@ Capabilities:
 - Research if there has been any work on training models to critique or analyze a book
 
 Then put the entire thing into some sort of web app or UI
+
+Main difficulty might be splitting books into chapters. That doesn't seem to be a common and available thing.
